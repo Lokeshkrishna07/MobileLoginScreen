@@ -3,6 +3,11 @@
 A cross-platform (iOS & Android) implementation of the  login interface built with React Native CLI.
 
 ---
+## ✨ Live Preview
+
+![Screenshot of the complete login screen UI](images/login-screenshot.png) 
+
+---
 
 ## ✨ Features Implemented
 
